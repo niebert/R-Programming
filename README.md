@@ -8,4 +8,4 @@ The datasets are created by [guru99-edu](https://www.github.com/guru99-edu) and 
 ### Application of Datasets 
 The sample datasets by [guru99-edu](https://www.github.com/guru99-edu) are used 
 * in the context of [Wikiversity learning resource about KnitR](https://en.wikiversity.org/wiki/KnitR) and
-* in conjunction with the repository [knitr4education](https://www.github.com/niebert/knitr4eduction)
+* in conjunction with the GitHub repository [knitr4education](https://www.github.com/niebert/knitr4eduction)
